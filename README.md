@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGod0120)](https://github.com/anuraghazra/github-readme-stats)
+## :wave: Hey, YY here! :wave:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGod0120&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **YYGod0120/YYGod0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
