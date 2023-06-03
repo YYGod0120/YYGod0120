@@ -1,14 +1,14 @@
 ## :wave: Hey, YY here!
 
- <img src="https://github-readme-stats.vercel.app/api?username=YYGod0120&show_icons=true" alt="logo" height="160" align="right" width="50%" />
+
 
 - 🔭 I’m currently studying in **Chongqing**.
 - 🌱 I’m currently learning **React**,**TypeScript** ,**Arco design**.
 - 📫 How to reach me: 2569630663@qq.com
 - ⚡ Fun fact:
   - Web Design.
-
-<!-- [![YY's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGod0120&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats) -->
+## YY‘s GitHub stats
+[![YY's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGod0120&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats) 
 
 ## The current commonly used
 
