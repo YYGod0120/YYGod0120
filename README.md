@@ -7,14 +7,14 @@
 - 📫 How to reach me: 2569630663@qq.com
 - ⚡ Fun fact:
   - Web Design.
-## YY‘s GitHub stats
+## 🏆 YY‘s GitHub stats
 [![YY's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGod0120&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats) 
 
-## The current commonly used
+## 📚 The current commonly used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYGod0120&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tech Stack
+## 🚀 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
