@@ -1,14 +1,16 @@
+# YYGod0120
+
 ## :wave: Hey, YY here!
-
-
 
 - 🔭 I’m currently studying in **Chongqing**.
 - 🌱 I’m currently learning **React**,**TypeScript** ,**Redux**.
 - 📫 How to reach me: 2569630663@qq.com
 - ⚡ Fun fact:
   - Web Design.
+
 ## 🏆 YY‘s GitHub stats
-[![YY's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGod0120&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats) 
+
+[![YY's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGod0120&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 The current commonly used
 
@@ -28,14 +30,11 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 🛠️ Tools
+
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-3776AB?style=for-the-badge&logo=pycharm&logoColor=27C346)](https://www.jetbrains.com/pycharm/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-
-
-
-
 
 ## 🔗 More
 
