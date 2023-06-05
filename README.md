@@ -36,8 +36,7 @@
 
 ## 🔗 More
 
-Wanna know more about me?
-Visit my [website](https://www.YYGod0120.com)
+想了解更多=>[个人博客](https://www.YYGod0120.com)
 
 <!--
 **YYGod0120/YYGod0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
