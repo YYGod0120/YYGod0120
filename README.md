@@ -1,5 +1,3 @@
-# YYGod0120
-
 ## :wave: Hey, YY here!
 
 - 🔭 I’m currently studying in **Chongqing**.
