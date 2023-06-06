@@ -8,11 +8,11 @@
 
 ## 🏆 YY‘s GitHub stats
 
-[![YY's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGod0120&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![YY's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGod0120&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 The current commonly used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYGod0120)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYGod0120&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Tech Stack
 
