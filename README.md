@@ -1,10 +1,11 @@
 ## :wave: Hey, YY here!
 
 - 🔭 I’m currently studying in **Chongqing**.
-- 🌱 I’m currently learning **React**,**TypeScript** ,**Redux**.
+- 🌱 I’m currently learning **React**,**TypeScript** ,**Redux**，**Vue**.
 - 📫 How to reach me: 2569630663@qq.com
 - ⚡ Fun fact:
   - Web Design.
+  - Strategy card game
 
 ## 🏆 YY‘s GitHub stats
 
