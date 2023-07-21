@@ -1,11 +1,12 @@
-## :wave: Hey, YY here!
+## :wave: Welcome,I'm YY
 
 - 🔭 I’m currently studying in **Chongqing**.
-- 🌱 I’m currently learning **React**,**TypeScript** ,**Redux**，**Vue**.
+- 🌱 I’m currently learning **taro**,**TypeScript** ,**Next.js**.
 - 📫 How to reach me: 2569630663@qq.com
 - ⚡ Fun fact:
-  - Web Design.
-  - Strategy card game
+  - FE
+  - Games
+  - Workout
 
 ## 🏆 YY‘s GitHub stats
 
@@ -24,9 +25,10 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-[![Python](https://img.shields.io/badge/Python-grey.svg?logo=python&style=for-the-badge)](https://www.python.org/)
 ![webpack](https://img.shields.io/badge/webpack-%2320232a.svg?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 ## 🛠️ Tools
 
@@ -34,6 +36,8 @@
 [![PyCharm](https://img.shields.io/badge/PyCharm-3776AB?style=for-the-badge&logo=pycharm&logoColor=27C346)](https://www.jetbrains.com/pycharm/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+
+
 
 ## 🔗 More
 
